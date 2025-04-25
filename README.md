@@ -1,5 +1,5 @@
+## BitCoin Price Prediction Using LSTM
 
-Bitcoin Price Prediction using LSTM
 Project Overview
 This project utilizes a Long Short-Term Memory (LSTM) model to predict the price of Bitcoin over the next 30 days. LSTM, a type of Recurrent Neural Network (RNN), is highly effective for time series forecasting tasks, making it ideal for predicting the price trends of Bitcoin, which is heavily influenced by historical data.
 
